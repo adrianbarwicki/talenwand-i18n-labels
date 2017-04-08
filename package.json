@@ -1,14 +1,14 @@
 {
-  "name": "talenwand-i18n-labels",
+  "name": "talenwand-vq-config",
   "version": "1.0.0",
-  "description": "i18n labels for TalentWand.de - freelance services marketplaces",
+  "description": "VQ marketplace configuration for TalentWand.de - freelance services marketplaces",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianbarwicki/talenwand-i18n-labels.git"
+    "url": "git+https://github.com/adrianbarwicki/talenwand-vq-config"
   },
   "keywords": [
     "i18n"
@@ -16,7 +16,7 @@
   "author": "Adrian Barwicki (adrianbarwicki@gmail.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/adrianbarwicki/talenwand-i18n-labels/issues"
+    "url": "https://github.com/adrianbarwicki/talenwand-vq-config/issues"
   },
-  "homepage": "https://github.com/adrianbarwicki/talenwand-i18n-labels#readme"
+  "homepage": "https://talentwand.de"
 }
