@@ -1,5 +1,12 @@
 {
     "name": "TalentWand",
+    "domain": "https://talentwand.de",
+    "social_fb_username": "TalentWand",
+    "company_name_short": "VQ Labs",
+    "company_name": "ViciQloud UG (haftungsbeschränkt)",
+    "company_address": "Robert-Bosch-Strasse 49, 69190 Walldorf",
+    "company_url": "https://vq-labs.com",
+    "company_ceo": "Adrian Barwicki",
     "logo_url": "https://talentwand.de/tw_logo.png",
     "promo_url": "https://talentwand.de/images/startup.jpg",
     "primary_color": "#546e7a"
