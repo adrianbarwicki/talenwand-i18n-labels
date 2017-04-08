@@ -1,0 +1,1 @@
+module.exports = lang => require(`./langs/${lang}.json`);
