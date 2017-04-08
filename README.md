@@ -1,13 +1,13 @@
 # talenwand-i18n-labels
 VQ marketplace configuration for TalentWand.de
 
-## i18n
-## listing categories
-## app design config
-## pricing strategies
-## publishing strategy
-## buyer profile configuration
-## seller profile configuration
+## i18n Labels
+## Listing categories
+## App design config
+## Pricing strategies
+## Publishing strategy
+## Buyer profile configuration
+## Seller profile configuration
 
 ## Licence
 Apache 2.0
