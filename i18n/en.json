@@ -1,4 +1,9 @@
-{   
+{      
+    "SIGNUP_PAGE_TITLE": "Join the community",
+    "SIGNUP_PAGE_DESC": "Create an account to get started",
+    "TERMS_AND_PRIVACY_AGREEMENT_STATEMENT": "By signing up you agree to our Terms of Service and Privacy Policy.",
+    "TERMS_OF_SERVICE": "Terms of service",
+    "PRIVACY_POLICY": "Privacy policy",
     "CREATE_NEW_LISTING": "Insert new offer",
     "PRICE_TYPE": "Price type",
     "PROMO_BUYER_SLOGAN": "Everything your startup needs in one marketplace",

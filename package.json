@@ -1,22 +1,26 @@
 {
-  "name": "talenwand-vq-config",
+  "name": "vq-marketplace-config",
   "version": "1.0.0",
-  "description": "VQ marketplace configuration for TalentWand.de - freelance services marketplaces",
+  "description": "VQ Marketplace default configuration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/adrianbarwicki/talenwand-vq-config"
+    "url": "git+https://github.com/vq-labs/vq-marketplace-config"
   },
   "keywords": [
-    "i18n"
+    "i18n",
+    "config",
+    "Sharing Economy",
+    "Marketplace",
+    "VQ-LABS"
   ],
-  "author": "Adrian Barwicki (adrianbarwicki@gmail.com)",
-  "license": "ISC",
+  "author": "VQ-LABS (info@vq-labs.com)",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/adrianbarwicki/talenwand-vq-config/issues"
+    "url": "https://github.com/vq-labs/vq-marketplace-config/issues"
   },
-  "homepage": "https://talentwand.de"
+  "homepage": "https://vq-labs.com"
 }
