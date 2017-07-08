@@ -1,4 +1,4 @@
 {
-    "zip_code": { "required": true },
-    "phone_number": { "required": true }
+    "zipCode": { "required": true },
+    "phoneNo": { "required": true }
 }
