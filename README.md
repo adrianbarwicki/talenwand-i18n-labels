@@ -1,5 +1,5 @@
-# talenwand-i18n-labels
-VQ marketplace configuration for TalentWand.de
+# VQ-Marketplace config
+Default configuration for VQ-Marketplace
 
 ## i18n Labels
 ## Listing categories
@@ -10,7 +10,7 @@ VQ marketplace configuration for TalentWand.de
 ## Seller profile configuration
 
 ## Licence
-Apache 2.0
+MIT
 
 ## Contact person
-ani.calis[@]viciqloud.com
+info@vq-labs.com
