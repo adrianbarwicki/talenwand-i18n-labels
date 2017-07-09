@@ -1,4 +1,7 @@
 {      
+    "FIND_OR_POST_TASKS": "Would you like to post or find tasks?",
+    "POST_TASKS": "Post tasks",
+    "FIND_TASKS": "Find tasks",
     "EMAIL_ADDRESS": "E-mail",
     "PHONE_NO": "Phone number",
     "ZIP_CODE": "ZIP-Code",
