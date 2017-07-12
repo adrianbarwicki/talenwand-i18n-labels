@@ -9,5 +9,8 @@
     "company_ceo": "Adrian Barwicki",
     "logo_url": "https://talentwand.de/tw_logo.png",
     "promo_url": "https://talentwand.de/images/startup.jpg",
-    "primary_color": "#546e7a"
+    "primary_color": "#546e7a",
+    "pricing_hourly": true,
+    "pricing_contract": false,
+    "pricing_request": false
 }
