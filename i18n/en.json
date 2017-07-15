@@ -1,4 +1,8 @@
-{      
+{    
+    "NEW_LISTING_BASICS_HEADER": "Task Basics",
+    "NEW_LISTING_BASICS_DESC": "Enter task title, description and location",
+    "NEW_LISTING_DATE_HEADER": "Task date",
+    "NEW_LISTING_DATE_DESC": "Pick a time and a qualified Tasker in your area will contact you.",
     "FIND_OR_POST_TASKS": "Would you like to post or find tasks?",
     "POST_TASKS": "Post tasks",
     "FIND_TASKS": "Find tasks",
