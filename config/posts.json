@@ -1,4 +1,13 @@
-{
-    "privacy-policy": "Privacy policy",
-    "terms-of-service": "Terms of Service"
-}
+[
+    {
+        "code": "privacy-policy",
+        "title": "Privacy Policy",
+        "body": "Add Privacy policy",
+        "type": "legal"
+    }, {
+        "code": "terms-of-service",
+        "title": "Terms of Service",
+        "body": "Add Terms of Service",
+        "type": "legal"
+    }
+]
