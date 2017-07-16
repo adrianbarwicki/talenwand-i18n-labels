@@ -20,5 +20,6 @@
     "listing_location_mode": 2,
     "listing_date_mode": 2,
     "listing_price_mode": 2,
-    "listing_images_mode": 0
+    "listing_images_mode": 0,
+    "country_restriction": "hu"
 }
