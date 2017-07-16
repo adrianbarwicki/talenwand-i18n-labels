@@ -3,11 +3,16 @@
         "code": "privacy-policy",
         "title": "Privacy Policy",
         "body": "Add Privacy policy",
-        "type": "legal"
+        "type": "terms"
     }, {
         "code": "terms-of-service",
         "title": "Terms of Service",
         "body": "Add Terms of Service",
-        "type": "legal"
+        "type": "terms"
+    }, {
+        "code": "welcome",
+        "title": "Welcome email",
+        "body": "Welcome to the service",
+        "type": "email"
     }
 ]
