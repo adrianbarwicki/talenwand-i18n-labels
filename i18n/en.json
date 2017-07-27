@@ -1,4 +1,7 @@
 {   
+    "NEW_LISTING_CATEGORY_HEADER": "What do you need help with?",
+    "NEW_LISTING_CATEGORY_DESC": "Choose listing category",
+    "RESET_PASSWORD": "Reset password",
     "CONFIRM_BOOKING_HEADER": "Confirm your booking",
     "CONFIRM_BOOKING_DESC": "I confirming the booking I hereby declare to pay the full amount to the tasker and the respective service fee.",
     "CONFIRM_BOOKING": "Confirm booking",
