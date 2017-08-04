@@ -1,4 +1,5 @@
 {   
+    "IMPRINT": "Imprint",
     "YOUR_BOOKINGS": "Your bookings",
     "YOUR_REQUESTS": "Your applications",
     "NEW_LISTING_CATEGORY_HEADER": "What do you need help with?",
@@ -95,7 +96,7 @@
     "WEBSITE": "Website",
     "TALENTS": "Talents",
     "NO_TALENTS": "No Talents",
-    "ACTIVE_LISTINGS_DESC": "",  
+    "ACTIVE_LISTINGS_DESC": " ",  
     "ACTIVE_LISTINGS": "Active listings",
     "NO_ACTIVE_LISTINGS": "It seems that you don't have any active offers",
     "POST_NEW_LISTING": "Post new Offer",
