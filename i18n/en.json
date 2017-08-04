@@ -1,4 +1,7 @@
 {   
+    "COMMENTS": "Public dicussion",
+    "COMMENTS_DESC": "Here you can ask public questions.",
+    "NO_BOOKINGS": "No bookings",
     "IMPRINT": "Imprint",
     "YOUR_BOOKINGS": "Your bookings",
     "YOUR_REQUESTS": "Your applications",
