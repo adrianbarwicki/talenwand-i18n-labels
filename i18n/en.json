@@ -45,6 +45,8 @@
     "NEW_LISTING_BASICS_DESC": "Describe your task. It helps to be exact!",
     "NEW_LISTING_DATE_HEADER": "Task date",
     "NEW_LISTING_DATE_DESC": "Pick a date and a qualified tasker in your area will contact you.",
+    "NEW_LISTING_DURATION_HEADER": "Task duration",
+    "NEW_LISTING_DURATION_DESC": "What is the estimated duration of the job?",
     "FIND_OR_POST_TASKS": "Would you like to post or find tasks?",
     "POST_TASKS": "Post tasks",
     "FIND_TASKS": "Find tasks",
