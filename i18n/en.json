@@ -1,4 +1,8 @@
 {   
+    "REQUEST_SUBMITTED_HEADER": "Success",
+    "REQUEST_SUBMITTED_DESC": "Your application has been successfully sent. Now the job owner will be able to contact you.",
+    "REQUEST_MESSAGE_HEADER": "Message",
+    "REQUEST_MESSAGE_DESC": "Add a personal message to your application.",
     "LISTINGS_PROMO_HEADER": "VQ LABS: Marketplace showcase",
     "LISTINGS_PROMO_DESC": "We empower entrepreneurs with solutions in sharing economy. VQ Labs builds your online marketplace and turns your idea into reality.",
     "HEADER_LISTINGS": "Jobs",
