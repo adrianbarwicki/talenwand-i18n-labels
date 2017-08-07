@@ -1,4 +1,5 @@
 {   
+    "SETTLE_ORDER": "Job is done",
     "NEW_PASSWORD": "New password",
     "REPEAT_NEW_PASSWORD": "Repeat new password",
     "REQUEST_RECEIVED": "Application received",
@@ -8,6 +9,7 @@
     "NO_OPEN_LISTINGS": "No open listings",
     "NO_ORDERS_IN_PROGRESS": "No orders in progress",
     "ORDERS_IN_PROGRESS": "In progress",
+    "ORDER_IN_PROGRESS": "In progress",
     "ORDERS_COMPLETED": "Completed",
     "LISTINGS_POSTED": "Open Jobs",
     "NO_ORDERS_COMPLETED": "No completed orders",
