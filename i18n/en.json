@@ -1,4 +1,8 @@
 {   
+    "REQUEST_RECEIVED": "Application received",
+    "REQUEST_BOOKED": "Applicant assigned",
+    "REQUEST_MARKED_AS_DONE": "Marked as done",
+    "REQUEST_SETLLED": "Done and paid",
     "NO_ORDERS_IN_PROGRESS": "No orders in progress",
     "ORDERS_IN_PROGRESS": "In progress",
     "ORDERS_COMPLETED": "Completed",
