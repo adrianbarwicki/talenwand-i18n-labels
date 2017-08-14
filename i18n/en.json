@@ -118,7 +118,7 @@
     "FIRST_NAME": "First name",
     "LAST_NAME": "Last name",
     "PROFILE_BIO": "Profile bio",
-    "PROFILE_BIO_DESC": "Erzählen Sie Profilbesuchern in einem kurzen Satz, wer Sie sind.",
+    "PROFILE_BIO_DESC": "Tell others who you are",
     "WEBSITE": "Website",
     "ACTIVE_LISTINGS_DESC": " ",  
     "ACTIVE_LISTINGS": "Active listings",
@@ -126,8 +126,6 @@
     "POST_NEW_LISTING": "Post new Offer",
     "EDIT_PROFILE": "Edit profile",
     "CHANGE_PROFILE_PICTURE": "Change profile picture",
-    "MY_TASKS": "My offers",
-    "NEW_TASK": "New offer",
     "ALL_CATEGORIES": "All Categories",
     "CHAT": "Messages",
     "MORE": "More"
