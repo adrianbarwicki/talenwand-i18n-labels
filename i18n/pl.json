@@ -1,4 +1,7 @@
 {   
+    "VERIFICATION_EMAIL_SENT": "Verification e-mail sent!",
+    "EMAIL_NOT_VERIFIED_HEADER": "Email not verified",
+    "EMAIL_NOT_VERIFIED_DESC": "Check your email inbox and click in a verification link.",
     "NO_LISTINGS": "No listings",
     "EMAIL": "E-mail",
     "SETTLE_ORDER": "Job is done",

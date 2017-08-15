@@ -12,7 +12,7 @@
     }, {
         "code": "welcome",
         "title": "Welcome email",
-        "body": "Welcome to the service",
+        "body": "<p>Hello!</p> <p><br></p> <p>To complete your sign-up please open the following link:</p> <p><br></p> <p>&lt;%-VERIFICATION_LINK%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }
 ]
