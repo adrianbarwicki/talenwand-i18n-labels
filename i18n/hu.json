@@ -1,4 +1,5 @@
 {   
+    "REGISTER_TO_APPLY": "Register to apply",
     "RESEND_VERIFICATION_EMAIL": "Send again",
     "VERIFICATION_EMAIL_SENT": "Verification e-mail sent!",
     "EMAIL_NOT_VERIFIED_HEADER": "Email not verified",

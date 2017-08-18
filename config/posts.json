@@ -1,5 +1,21 @@
 [
     {
+        "code": "review-completed",
+        "title": "Review completed",
+        "body": "<h1>Review completed!</h1>",
+        "type": "process"
+    }, {
+        "code": "booking-completed",
+        "title": "Booking completed",
+        "body": "<h1>The booking has been succesfull!</h1>",
+        "type": "process"
+    }, {
+        "code": "request-sent",
+        "title": "Request sent",
+        "body": "<h1>Your request has been sent!</h1>",
+        "type": "process"
+    },
+    {
         "code": "privacy-policy",
         "title": "Privacy Policy",
         "body": "Add Privacy policy",
