@@ -2,17 +2,17 @@
     {
         "code": "review-completed",
         "title": "Review completed",
-        "body": "<h1>Review completed!</h1>",
+        "body": "<p>Review completed!</p>",
         "type": "process"
     }, {
         "code": "booking-completed",
         "title": "Booking completed",
-        "body": "<h1>The booking has been succesfull!</h1>",
+        "body": "<p>The booking has been succesfull!</p>",
         "type": "process"
     }, {
         "code": "request-sent",
         "title": "Request sent",
-        "body": "<h1>Your request has been sent!</h1>",
+        "body": "<p>Your request has been sent!</p>",
         "type": "process"
     },
     {
