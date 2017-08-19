@@ -22,5 +22,9 @@
   "bugs": {
     "url": "https://github.com/vq-labs/vq-marketplace-config/issues"
   },
-  "homepage": "https://vq-labs.com"
+  "homepage": "https://vq-labs.com",
+  "devDependencies": {
+    "google-translate": "^2.0.5",
+    "write-file": "^1.0.0"
+  }
 }
