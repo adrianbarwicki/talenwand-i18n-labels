@@ -33,12 +33,12 @@
     }, {
         "code": "new-request-received",
         "title": "New request received",
-        "body": "<p>Hello!</p> <p><br></p> <p>You have received a new request for your listing</p> <p><br></p> <p>&lt;%-LISTING_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have received a new request for your listing. Respond here:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "new-request-sent",
         "title": "New request sent",
-        "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-LISTING_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "request-accepted",
