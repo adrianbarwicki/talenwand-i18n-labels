@@ -43,37 +43,37 @@
     }, {
         "code": "request-accepted",
         "title": "Request has been accepted",
-        "body": "<p>Hello!</p> <p><br></p> <p>Your request has been accepted. Visit your dashboard to see more information</p> <p><br></p> <p>&lt;%-DASHBOARD_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>Your request has been accepted. Visit your dashboard to see more information</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "request-marked-as-done",
         "title": "You marked the task as done",
-        "body": "<p>Hello!</p> <p><br></p> <p>You have marked the task as done. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-DASHBOARD_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have marked the task as done. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "request-completed",
         "title": "Assignment has been completed",
-        "body": "<p>Hello!</p> <p><br></p> <p>The order has been completed. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-DASHBOARD_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>The order has been completed. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "new-order",
         "title": "Order confirmed",
-        "body": "<p>Hello!</p> <p><br></p> <p>You have successfully created an order. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-DASHBOARD_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have successfully created an order. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "order-marked-as-done",
         "title": "Order has been marked as done",
-        "body": "<p>Hello!</p> <p><br></p> <p>The order has been marked as done. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-DASHBOARD_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>The order has been marked as done. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "order-completed",
         "title": "Order has been completed",
-        "body": "<p>Hello!</p> <p><br></p> <p>The order has been completed. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-DASHBOARD_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>The order has been completed. See more information on your dashboard:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "message-received",
         "title": "New message",
-        "body": "<p>Hello!</p> <p><br></p> <p>Someone sent you a message. See more information:</p> <p><br></p> <p>&lt;%-CHAT_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>Someone sent you a message. See more information:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }
 ]
