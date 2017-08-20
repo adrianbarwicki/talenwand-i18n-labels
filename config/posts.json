@@ -75,5 +75,10 @@
         "title": "New message",
         "body": "<p>Hello!</p> <p><br></p> <p>Someone sent you a message. See more information:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
+    }, {
+        "code": "review-left",
+        "title": "New review",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have a new review. See more:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
     }
 ]
