@@ -13,6 +13,17 @@ Default configuration for VQ-Marketplace
 ## Profile verifications
 Specify verification rules for users that would be required for using the platform.
 
+```
+// userType 1 has to have status 10 before being able to interact with the platform
+{
+    "name": "email-verification",
+    "userType": 1,
+    "dbName": "user",
+    "where": "status",
+    "steps": [ "equals", 10 ]
+},
+```
+
 
 ## Licence
 MIT
