@@ -19,7 +19,7 @@ Specify verification rules for users that would be required for using the platfo
     "name": "email-verification",
     "userType": 1,
     "dbName": "user",
-    "where": "status",
+    "fieldKey": "status",
     "steps": [ "equals", 10 ]
 },
 ```
