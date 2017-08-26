@@ -1,20 +1,21 @@
-{
-    "requiredSellerVerifications": [
-        {
-            "type": "user",
-            "fieldName": "status",
-            "fieldValue": 10
-        }, {
-            "type": "userProperty",
-            "fieldName": "studentIdUrl",
-            "fieldValue": [ "required" ]
-        }
-    ],
-    "requiredBuyerVerifications": [
-        {
-            "type": "user",
-            "fieldName": "status",
-            "fieldValue": [ "equals", 10 ]
-        }
-    ]
-}
+[
+    {
+        "name": "email-verification",
+        "userType": 1,
+        "dbName": "user",
+        "where": "status",
+        "steps": [ "equals", 10 ]
+    }, {
+        "name": "email-verification",
+        "userType": 2,
+        "dbName": "user",
+        "where": "status",
+        "steps": [ "equals", 10 ]
+    }, {
+        "name": "student-id-verification",
+        "userType": 2,
+        "dbName": "user",
+        "where": "studentIdUrl",
+        "steps": [ "required" ]
+    }
+]
