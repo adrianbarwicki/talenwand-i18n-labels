@@ -18,11 +18,16 @@ Specify verification rules for users that would be required for using the platfo
 {
     "name": "email-verification",
     "userType": 1,
-    "dbName": "user",
+    "type": "user",
     "fieldKey": "status",
     "steps": [ "equals", 10 ]
 },
 ```
+
+Possible types: 'user' || 'userProperty' <br />
+Possible userTypes: '1' || '2' <br />
+
+Possible steps: 'equals' || 'required' <br />
 
 
 ## Licence

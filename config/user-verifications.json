@@ -2,19 +2,19 @@
     {
         "name": "email-verification",
         "userType": 1,
-        "dbName": "user",
+        "type": "user",
         "fieldKey": "status",
         "steps": [ "equals", 10 ]
     }, {
         "name": "email-verification",
         "userType": 2,
-        "dbName": "user",
+        "type": "user",
         "fieldKey": "status",
         "steps": [ "equals", 10 ]
     }, {
         "name": "student-id-verification",
         "userType": 2,
-        "dbName": "user",
+        "type": "userProperty",
         "fieldKey": "studentIdUrl",
         "steps": [ "required" ]
     }
