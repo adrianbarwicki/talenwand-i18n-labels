@@ -1,0 +1,20 @@
+{
+    "requiredSellerVerifications": [
+        {
+            "type": "user",
+            "fieldName": "status",
+            "fieldValue": 10
+        }, {
+            "type": "userProperty",
+            "fieldName": "studentIdUrl",
+            "fieldValue": [ "required" ]
+        }
+    ],
+    "requiredBuyerVerifications": [
+        {
+            "type": "user",
+            "fieldName": "status",
+            "fieldValue": [ "equals", 10 ]
+        }
+    ]
+}
