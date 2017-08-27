@@ -1,4 +1,11 @@
 {   
+    "MARKED_DONE": "Marked done",
+    "DOCUMENT_UPLOADED": "StudentID uploaded",
+    "EMAIL_VERIFIED": "Email verified",
+    "USER_VERIFICATIONS": "Verifications",
+    "USER_PREFERENCES": "Preferences",
+    "ACCEPTED": "Preferences",
+    "START_PAGE_AUTOCOMPLETE_LABEL": "What do you need help with?",
     "USER_VERIFICATION_HEADER": "Verify your profile",
     "USER_VERIFICATION_DESC": "Verifications give you credibility and give trust in the platform",
     "USER_VERIFICATION_PERSONAL_ID_TITLE": "Upload your Student Card photo",
