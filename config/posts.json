@@ -80,5 +80,10 @@
         "title": "New review",
         "body": "<p>Hello!</p> <p><br></p> <p>You have a new review. See more:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
+    }, {
+        "code": "password-reset",
+        "title": "Password reset",
+        "body": "<p>Hello!</p> <p><br></p> <p>With the following link you can reset your password:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
     }
 ]
