@@ -1,4 +1,6 @@
 {   
+    "USER_PREFERENCE_HEADER": "Specify your preferences",
+    "USER_PREFERENCE_DESC": "Tell others what you are interested in.",
     "MARKED_DONE": "Marked done",
     "DOCUMENT_UPLOADED": "StudentID uploaded",
     "EMAIL_VERIFIED": "Email verified",
