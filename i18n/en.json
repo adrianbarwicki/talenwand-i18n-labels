@@ -1,11 +1,11 @@
 {   
     "USER_PREFERENCE_HEADER": "Specify your preferences",
     "USER_PREFERENCE_DESC": "Tell others what you are interested in.",
-    "MARKED_DONE": "Marked done",
     "DOCUMENT_UPLOADED": "StudentID uploaded",
     "EMAIL_VERIFIED": "Email verified",
     "USER_VERIFICATIONS": "Verifications",
     "USER_PREFERENCES": "Preferences",
+    "MARKED_DONE": "Marked done",
     "ORDER_MARKED_DONE": "Order marked done",
     "ACCEPTED": "In Progress",
     "START_PAGE_AUTOCOMPLETE_LABEL": "What do you need help with?",
