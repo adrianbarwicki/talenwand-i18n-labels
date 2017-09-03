@@ -1,4 +1,5 @@
 {   
+    "ORDER_SETTLED": "Order completed",
     "USER_PREFERENCE_HEADER": "Specify your preferences",
     "USER_PREFERENCE_DESC": "Tell others what you are interested in.",
     "DOCUMENT_UPLOADED": "StudentID uploaded",
