@@ -1,4 +1,8 @@
 {   
+    "HOMEPAGE_FOOTER_CATEGORIES": "Categories",
+    "HOMEPAGE_FOOTER_IMPRINT": "Imprint",
+    "HOMEPAGE_FOOTER_PRIVACY": "Privacy",
+    "HOMEPAGE_FOOTER_TERMS": "Terms of service",
     "HOW_IT_WORKS_BUYERS_STEP_1_HEADER": "Describe the task",
     "HOW_IT_WORKS_BUYERS_STEP_1_DESC": "Choose from a variety of home services and select the day and time you'd like a qualified Tasker to show up. Give us the details and we'll find you the help.",
     "HOW_IT_WORKS_BUYERS_STEP_1_ICON": "home",
