@@ -1,4 +1,13 @@
 {   
+    "ACCOUNT_SETTINGS": "Account",
+    "ACCOUNT_USER_DETAILS_HEADER": "User details",
+    "ACCOUNT_USER_DETAILS_DESC": "",
+    "ACCOUNT_NOTIFICATIONS_HEADER": "Notifications",
+    "ACCOUNT_NOTIFICATIONS_DESC": "",
+    "DELETE_YOUR_ACCOUNT_HEADER": "Delete your account",
+    "DELETE_YOUR_ACCOUNT_DESC": "Once you delete your account, you will be not able to log-in again or create a new account with the same e-mail address.",
+    "DELETE_YOUR_ACCOUNT_ACTION": "Delete account",
+    "EMAIL_NOTIFICATIONS": "E-Mail notifications",
     "BILLING_TAX_NUMBER": "Tax number",
     "ARE_YOU_SURE": "Are you sure?",
     "LOGOUT": "Logout",
