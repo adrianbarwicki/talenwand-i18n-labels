@@ -1,4 +1,11 @@
 {   
+
+    "REQUEST_STATUS_PENDING": "Application sent",
+    "REQUEST_STATUS_ACCEPTED": "Application accepted",
+    "REQUEST_STATUS_MARKED_DONE": "Job marked as done",
+    "REQUEST_STATUS_SETTLED": "Completed & Paid",
+    "REQUEST_STATUS_DECLINED": "Declined",
+    "REQUEST_STATUS_CANCELED": "Canceled",
     "ACCOUNT_SETTINGS": "Account",
     "ACCOUNT_USER_DETAILS_HEADER": "User details",
     "ACCOUNT_USER_DETAILS_DESC": "",
@@ -90,8 +97,8 @@
     "LISTINGS_POSTED": "Open Jobs",
     "NO_ORDERS_COMPLETED": "No completed orders",
     "SENT_REQUESTS_PENDING": "Pending applications",
-    "SENT_REQUESTS_ACCEPTED": "Assignments in progress",
-    "SENT_REQUESTS_SETTLED": "Completed assignments",
+    "SENT_REQUESTS_ACCEPTED": "Jobs in progress",
+    "SENT_REQUESTS_SETTLED": "Completed jobs",
     "REQUEST_ALREADY_SENT": "Already applied",
     "REQUEST_SUBMITTED_HEADER": "Success",
     "REQUEST_SUBMITTED_DESC": "Your application has been successfully sent. Now the job owner will be able to contact you.",
