@@ -1,5 +1,5 @@
 {   
-
+    "HEADER_ADD_LISTING": "New job",
     "REQUEST_STATUS_PENDING": "Application sent",
     "REQUEST_STATUS_ACCEPTED": "Application accepted",
     "REQUEST_STATUS_MARKED_DONE": "Job marked as done",
