@@ -41,6 +41,16 @@
         "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
+        "code": "task-marked-spam",
+        "title": "Your task has been marked as spam",
+        "body": "<p>Hello!</p> <p><br></p> <p>Your task has been marked as spam.</p> <p><br></p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
+    }, {
+        "code": "user-blocked",
+        "title": "You have been blocked!",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have been blocked from the platform. In case of questions, please contact support.</p> <p><br></p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
+    }, {
         "code": "request-accepted",
         "title": "Request has been accepted",
         "body": "<p>Hello!</p> <p><br></p> <p>Your request has been accepted. Visit your dashboard to see more information</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
