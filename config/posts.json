@@ -41,6 +41,16 @@
         "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
+        "code": "request-declined",
+        "title": "Your request has been declined",
+        "body": "<p>Hello!</p> <p><br></p> <p>Your application has been cancelled. Possible reasons may be: <ul><li>Task owner has choosen someone else for the job</li><li>The job has been cancelled</li></ul></p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
+    }, {
+        "code": "request-cancelled",
+        "title": "New request sent",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
+    } {
         "code": "task-marked-spam",
         "title": "Your task has been marked as spam",
         "body": "<p>Hello!</p> <p><br></p> <p>Your task has been marked as spam.</p> <p><br></p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
