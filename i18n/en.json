@@ -13,7 +13,7 @@
     "REQUEST_STATUS_SETTLED": "Completed & Paid",
     "REQUEST_STATUS_DECLINED": "Declined",
     "REQUEST_STATUS_CANCELED": "Canceled",
-    "ACCOUNT_SETTINGS": "Account",g
+    "ACCOUNT_SETTINGS": "Account",
     "ACCOUNT_USER_DETAILS_HEADER": "User details",
     "ACCOUNT_USER_DETAILS_DESC": "",
     "ACCOUNT_NOTIFICATIONS_HEADER": "Notifications",
