@@ -1,4 +1,3 @@
 {
-    "zipCode": { "required": true, "labelKey": "ZIP_CODE" },
     "phoneNo": { "required": true, "labelKey": "PHONE_NO" }
 }
