@@ -1,4 +1,7 @@
 {
+    "CLOSE_ORDER_DESC": "Closing order will shift the booking to the completed section.",
+    "CLOSE_ORDER": "Close order",
+    "ORDER_CLOSED": "Booking closed",
     "NO_REVIEWS": "No reviews",
     "YOU_MUST_LEAVE_REVIEW": "In order to see your review, you must also write a review!",
     "ORDER_AUTOSETTLEMENT_CANCELED": "Automatic payment revoked",
