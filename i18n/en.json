@@ -1,4 +1,7 @@
 {
+    "EMAIL_NOT_FOUND": "Email not found",
+    "ALREADY_APPLIED_REQUEST_ACTION_HEADER": "Confict in applications",
+    "ALREADY_APPLIED_REQUEST_ACTION_DESC": "You have already applied for a different task in the specified time. By confirming all other applications will be cancelled.",
     "ACCOUNT_BILLING_ADDRESS_HEADER": "Billing address",
     "ACCOUNT_BILLING_ADDRESS_DESC": "",
     "CLOSE_ORDER_DESC": "Closing order will shift the booking to the completed section.",
