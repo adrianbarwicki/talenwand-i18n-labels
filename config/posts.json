@@ -1,10 +1,5 @@
 [
-    {
-        "code": "new-task",
-        "title": "New task",
-        "body": "<p>Check out the new task here:</p> <p><%- ACTION_URL %></p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
-        "type": "process"
-    }, {
+     {
         "code": "review-completed",
         "title": "Review completed",
         "body": "<p>Review completed!</p>",
@@ -43,6 +38,11 @@
         "code": "listing-cancelled",
         "title": "Listing has been cancelled",
         "body": "<p>Hello!</p><p>Your listing has been cancelled.</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
+    },  {
+        "code": "new-task",
+        "title": "New task",
+        "body": "<p>Check out the new task here:</p> <p><%- ACTION_URL %></p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "new-request-sent",
