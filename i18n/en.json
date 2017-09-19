@@ -1,4 +1,6 @@
 {
+    "ACCOUNT_BILLING_ADDRESS_HEADER": "Billing address",
+    "ACCOUNT_BILLING_ADDRESS_DESC": "",
     "CLOSE_ORDER_DESC": "Closing order will shift the booking to the completed section.",
     "CLOSE_ORDER": "Close order",
     "ORDER_CLOSED": "Booking closed",

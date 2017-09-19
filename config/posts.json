@@ -1,5 +1,10 @@
 [
     {
+        "code": "new-task",
+        "title": "New task",
+        "body": "<p>Check out the new task here:</p> <p><%- ACTION_URL %></p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "process"
+    }, {
         "code": "review-completed",
         "title": "Review completed",
         "body": "<p>Review completed!</p>",
