@@ -1,4 +1,5 @@
 {
+    "CANCEL_LISTING_DESC": "Are you sure that you want to cancel your listing?",
     "WRONG_PASSWORD": "Wrong password",
     "EMAIL_NOT_FOUND": "Email not found",
     "ALREADY_APPLIED_REQUEST_ACTION_HEADER": "Confict in applications",
