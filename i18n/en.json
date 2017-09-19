@@ -1,4 +1,5 @@
 {
+    "WRONG_PASSWORD": "Wrong password",
     "EMAIL_NOT_FOUND": "Email not found",
     "ALREADY_APPLIED_REQUEST_ACTION_HEADER": "Confict in applications",
     "ALREADY_APPLIED_REQUEST_ACTION_DESC": "You have already applied for a different task in the specified time. By confirming all other applications will be cancelled.",
