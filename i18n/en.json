@@ -2,6 +2,8 @@
     "CANCEL_LISTING_DESC": "Are you sure that you want to cancel your listing?",
     "WRONG_PASSWORD": "Wrong password",
     "EMAIL_NOT_FOUND": "Email not found",
+    "EMAIL_WRONGLY_FORMATTED": "Email does not have the correct format",
+    "EMAIL_EXISTS": "Email already exists. Please login.",
     "ALREADY_APPLIED_REQUEST_ACTION_HEADER": "Confict in applications",
     "ALREADY_APPLIED_REQUEST_ACTION_DESC": "You have already applied for a different task in the specified time. By confirming all other applications will be cancelled.",
     "ACCOUNT_BILLING_ADDRESS_HEADER": "Billing address",
