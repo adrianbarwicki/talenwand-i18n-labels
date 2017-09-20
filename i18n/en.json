@@ -1,4 +1,5 @@
 {
+    "EMAIL_listing-cancelled": "Listing cancelled",
     "EMAIL_welcome": "Welcome",
     "EMAIL_new-request-received": "New request",
     "EMAIL_new-request-sent": "Request sent",
