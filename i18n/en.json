@@ -1,4 +1,8 @@
 {
+    "POSTAL_CODE": "Postal code",
+    "IS_NOT_SUPPORTED": "is not supported",
+    "ACCOUNT_DEFAULT_LISTING_LOCATION_HEADER": "Default listing address",
+    "ACCOUNT_DEFAULT_LISTING_LOCATION_DESC": "The task location will be prefilled automatically with this address.",
     "EMAIL_listing-cancelled": "Listing cancelled",
     "EMAIL_welcome": "Welcome",
     "EMAIL_new-request-received": "New request",
@@ -177,6 +181,7 @@
     "LISTING_LOCATION": "Location",
     "LISTING_DESCRIPTION": "Description",
     "LOCATION_STREET": "Street",
+    "LOCATION_STREET_NUMBER": "Street number",
     "LOCATION_COUNTRY": "Country",
     "LOCATION_ADDRESS_ADDITION": "Address addition",
     "LOCATION_CITY": "City",
