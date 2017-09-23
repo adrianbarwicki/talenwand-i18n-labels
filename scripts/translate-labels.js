@@ -13,6 +13,13 @@ if (TARGET_LANG === 'en') {
 
 async
     .eachSeries(Object.keys(englishLabels), (labelKey, cb) => {
+
+        if (labelKey.indexOf('ICON') > -1) {
+            translated[labelKey] = englishLabels[labelKey];
+
+            return cb();
+        }
+
         googleTranslate.translate(englishLabels[labelKey], TARGET_LANG, (err, translation) => {
             if (err) {
                 console.error(err);
