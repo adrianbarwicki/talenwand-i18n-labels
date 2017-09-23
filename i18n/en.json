@@ -1,4 +1,5 @@
 {
+    "REQUEST_STATUS_CLOSED": "Closed",
     "ERROR_MESSAGE_TOO_SHORT": "Message is too short",
     "POSTAL_CODE": "Postal code",
     "IS_NOT_SUPPORTED": "is not supported",
