@@ -1,0 +1,21 @@
+[
+    {
+        "name": "email-verification",
+        "userType": 1,
+        "type": "user",
+        "fieldKey": "status",
+        "steps": [ "equals", 10 ]
+    }, {
+        "name": "email-verification",
+        "userType": 2,
+        "type": "user",
+        "fieldKey": "status",
+        "steps": [ "equals", 10 ]
+    }, {
+        "name": "student-id-verification",
+        "userType": 2,
+        "type": "userProperty",
+        "fieldKey": "studentIdUrl",
+        "steps": [ "required" ]
+    }
+]
