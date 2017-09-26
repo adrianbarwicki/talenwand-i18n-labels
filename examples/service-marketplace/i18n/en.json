@@ -1,4 +1,6 @@
 {
+    "CANCEL_REQUEST_ACTION_DESC": "Do you really wish to revoke the application?",
+    "CANCEL_REQUEST_ACTION_HEADER": "Cancel application",
     "REQUEST_STATUS_CLOSED": "Closed",
     "ERROR_MESSAGE_TOO_SHORT": "Message is too short",
     "POSTAL_CODE": "Postal code",
