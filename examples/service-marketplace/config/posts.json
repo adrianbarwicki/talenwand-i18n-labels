@@ -56,8 +56,13 @@
         "type": "email"
     }, {
         "code": "request-cancelled",
-        "title": "New request sent",
+        "title": "Your request has been cancelled",
         "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "type": "email"
+    }, {
+        "code": "order-request-cancelled",
+        "title": "Request for your task has been cancelled",
+        "body": "<p>Hello!</p> <p><br></p> <p>Order request has been cancelled.</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "task-marked-spam",

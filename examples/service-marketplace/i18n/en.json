@@ -1,4 +1,8 @@
 {
+    "LISTING_TITLE_TOO_SHORT": "Listing title is too short",
+    "LISTING_DESCRIPTION_TOO_SHORT": "Description is too short. Min 50 chars.",
+    "LIMIT_IMAGE_SIZE": "Size of the image must not exceed 5MB",
+    "UNSUPPORTED_IMAGE_FORMAT": "Unsupported image format",
     "CANCEL_REQUEST_ACTION_DESC": "Do you really wish to revoke the application?",
     "CANCEL_REQUEST_ACTION_HEADER": "Cancel application",
     "REQUEST_STATUS_CLOSED": "Closed",
