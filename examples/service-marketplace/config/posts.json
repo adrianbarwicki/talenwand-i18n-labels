@@ -117,12 +117,12 @@
     }, {
         "code": "order-closed",
         "title": "You closed the booking",
-        "body": "<p>Hello!</p> <p><br></p> <p>You closed the booking</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>You closed the booking</p> <p>You can leave review here:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "request-closed",
         "title": "Your task has been closed",
-        "body": "<p>Hello!</p> <p><br></p> <p>The task you are assigned to, has been closed.</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>The task you are assigned to, has been closed.</p> <p><br></p> <p>You can leave review here:</p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "password-reset",
