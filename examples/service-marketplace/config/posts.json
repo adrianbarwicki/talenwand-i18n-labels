@@ -57,7 +57,7 @@
     }, {
         "code": "request-cancelled",
         "title": "Your request has been cancelled",
-        "body": "<p>Hello!</p> <p><br></p> <p>You have sent a request for the listing</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p>You have cancelled your request for a listing your applied for. Apply for other listings here:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "task-request-cancelled",
