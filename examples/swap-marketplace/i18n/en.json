@@ -1,8 +1,4 @@
 {
-    "USER_DOCUMENTS_HEADER": "User References",
-    "USER_DOCUMENTS_DESC": "Has someone written you a reference paper? Upload it here!",
-    "ADD_FILE_ACTION_HEADER": "Add new",
-    "ADD_FILE_ACTION_DESC": "PDF format is expected",
     "LISTING_TITLE_TOO_SHORT": "Listing title is too short",
     "LISTING_DESCRIPTION_TOO_SHORT": "Description is too short. Min 50 chars.",
     "LIMIT_IMAGE_SIZE": "Size of the image must not exceed 5MB",
