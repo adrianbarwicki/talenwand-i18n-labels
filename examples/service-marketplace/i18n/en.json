@@ -1,4 +1,6 @@
 {
+    "SUCCESS": "Success",
+    "HEADER_USER_DOCUMENTS": "References",
     "USER_DOCUMENTS_HEADER": "User References",
     "USER_DOCUMENTS_DESC": "Has someone written you a reference paper? Upload it here!",
     "ADD_FILE_ACTION_HEADER": "Add new",
