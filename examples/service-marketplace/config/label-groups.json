@@ -56,6 +56,7 @@
     "EMAIL_request-closed": "EMAILS",
     "EMAIL_new-task": "EMAILS",
     "EMAIL_listing-cancelled": "EMAILS",
+    "EMAIL_task-request-cancelled": "EMAILS",
     "CANCEL_LISTING_DESC": "LISTING",
     "CANCEL_REQUEST_ACTION_DESC": "REQUEST",
     "CANCEL_REQUEST_ACTION_HEADER": "REQUEST",
