@@ -13,6 +13,10 @@ if (TARGET_LANG === 'en') {
     throw new Error('"en" is source language');
 }
 
+if (!process.env.GOOGLE_API_KEY) {
+    throw new Error('GOOGLE_API_KEY is missing');
+}
+
 async
     .eachSeries(Object.keys(englishLabels), (labelKey, cb) => {
 

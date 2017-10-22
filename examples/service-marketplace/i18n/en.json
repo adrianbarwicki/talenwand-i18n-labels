@@ -1,4 +1,10 @@
 {
+    "ACCOUNT_MENU_PROFILE": "Profile",
+    "ACCOUNT_MENU_LANGUAGE": "Language",
+    "ACCOUNT_MENU_NOTIFICATIONS": "Notifications",
+    "ACCOUNT_MENU_DELETE_ACCOUNT": "Delete account",
+    "ACCOUNT_LANGUAGE_DETAILS_HEADER": "Language",
+    "ACCOUNT_LANGUAGE_DETAILS_DESC": "",
     "HOMEPAGE_FOOTER_SOCIAL_MEDIA": "Follow us",
     "EMAIL_task-request-cancelled": "Task request cancelled",
     "HEADER_DASHBOARD": "Dashboard",
