@@ -37,7 +37,7 @@
     }, {
         "code": "listing-cancelled",
         "title": "Listing has been cancelled",
-        "body": "<p>Hello!</p><p>Your listing has been cancelled.</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p><p>Your listing '<%- LISTING_TITLE %>' has been cancelled.</p> <p><br></p> <p>You can a new listing here: '<%- ACTION_URL %>'</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     },  {
         "code": "new-task",
@@ -107,7 +107,7 @@
     }, {
         "code": "message-received",
         "title": "New message",
-        "body": "<p>Hello!</p> <p><br></p> <p>Someone sent you a message. See more information:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
+        "body": "<p>Hello!</p> <p><br></p> <p><%-SENDER_FIRST_NAME%> <%-SENDER_LAST_NAME%> sent you a message regarding the listing '<%-LISTING_TITLE%>'. See more information:</p> <p><br></p> <p>&lt;%-ACTION_URL%&gt;</p> <p><br></p> <p>Best regards,</p> <p>Your VQ LABS team</p>",
         "type": "email"
     }, {
         "code": "review-left",
