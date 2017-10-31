@@ -26,5 +26,9 @@
     "listing_price_mode": 2,
     "listing_images_mode": 0,
     "country_restriction": "hu",
-    "default_lang": "en"
+    "default_lang": "en",
+    "LISTING_GEOFILTER_COUNTRY_RESTRICTION": "de",
+    "LISTING_GEOFILTER_MODE": "cities",
+    "DATE_FORMAT": "DD.MM.YYYY",
+    "TIME_FORMAT": "HH:mm"
 }

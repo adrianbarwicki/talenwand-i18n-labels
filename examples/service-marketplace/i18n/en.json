@@ -1,4 +1,8 @@
 {
+    "CHAT_PAGE_HEADER": "Private Chat",
+    "CHAT_PAGE_DESC": "Communicate with other party and clarify the listing details.",
+    "REQUEST_CLOSED": "Closed",
+    "REQUEST_REVIEWED": "Reviewed",
     "ACCOUNT_MENU_BILLING_ADDRESS": "Billing address",
     "ACCOUNT_MENU_LISTING": "Listing",
     "ACCOUNT_MENU_PROFILE": "Profile",
