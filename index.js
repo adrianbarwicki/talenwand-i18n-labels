@@ -9,7 +9,7 @@ const usecaseFactory = path => {
         config: () => require(`${path}/config/config.json`),
         userProperties: () => require(`${path}/config/user-properties.json`),
         userVerifications: () => require(`${path}/config/user-verifications.json`),
-        labelGroups: () => require(`${path}/config/label-groups.json`),
+        labelGroups: () => require(`./label-groups.json`),
         posts: () => require(`${path}/config/posts.json`)
     };
 };
