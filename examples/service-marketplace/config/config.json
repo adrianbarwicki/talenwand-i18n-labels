@@ -21,7 +21,7 @@
     "pricing_hourly": true,
     "pricing_contract": false,
     "pricing_request": false,
-    "pricing_default_currency": "HUF",
+    "PRICING_DEFAULT_CURRENCY": "EUR",
     "listing_title_mode": 2,
     "listing_category_mode": 2,
     "listing_description_mode": 2,
@@ -34,5 +34,8 @@
     "LISTING_GEOFILTER_COUNTRY_RESTRICTION": "de",
     "LISTING_GEOFILTER_MODE": "cities",
     "DATE_FORMAT": "DD.MM.YYYY",
-    "TIME_FORMAT": "HH:mm"
+    "TIME_FORMAT": "HH:mm",
+    "LISTINGS_VIEW_LIST": "1",
+    "LISTINGS_VIEW_MAP": "1",
+    "LISTINGS_DEFAULT_VIEW": "2"
 }

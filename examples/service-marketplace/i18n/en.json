@@ -98,7 +98,7 @@
     "REVOKE_AUTOSETTLEMENT_DESC": "Revoking the automatic payment will unmark the task as done and cancel the payments. In case of problems, contact support.",
     "ORDER_AUTOSETTLEMENT_ON": "Will be automatically paid on",
     "BILLING_ADDRESS_USE_LISTING_LOCATION": "Use task address as billing address",
-    "HEADER_ADD_LISTING": "New job",
+    "HEADER_ADD_LISTING": "New listing",
     "REQUEST_STATUS_PENDING": "Application sent",
     "REQUEST_STATUS_ACCEPTED": "Application accepted",
     "REQUEST_STATUS_MARKED_DONE": "Job marked as done",
