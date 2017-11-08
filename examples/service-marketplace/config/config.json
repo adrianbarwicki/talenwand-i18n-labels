@@ -31,11 +31,15 @@
     "listing_images_mode": 0,
     "country_restriction": "hu",
     "default_lang": "en",
+    "COLOR_PRIMARY": "#000639",
     "LISTING_GEOFILTER_COUNTRY_RESTRICTION": "de",
     "LISTING_GEOFILTER_MODE": "cities",
+    "GOOGLE_ANALYTICS_ID": "",
     "DATE_FORMAT": "DD.MM.YYYY",
     "TIME_FORMAT": "HH:mm",
     "LISTINGS_VIEW_LIST": "1",
     "LISTINGS_VIEW_MAP": "1",
-    "LISTINGS_DEFAULT_VIEW": "2"
+    "LISTINGS_DEFAULT_VIEW": "2",
+    "DEFAULT_LANG": "en",
+    "LANGUAGES": "de,fr,it,pl"
 }
