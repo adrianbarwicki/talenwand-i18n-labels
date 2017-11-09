@@ -1,5 +1,6 @@
 {
     "NAME": "VQ Marketplace",
+    "SEO_TITLE": "VQ Marketplace",
     "COLOR_PRIMARY": "#000639",
     "COLOR_SECONDARY": "#000639",
     "DOMAIN": "https://vq-labs.com",
@@ -15,6 +16,7 @@
     "company_ceo": "Adrian Barwicki",
     "LOGO_URL": "/images/vq-logo.png",
     "PROMO_URL": "/images/vqbg.jpg",
+    "SEO_FAVICON_URL": "/favicon.png",
     "PROMO_URL_SELLERS": "/images/vqbg.jpg",
     "CUSTOM_CONTACT_PAGE_URL": "https://vq-labs.com/contact",
     "CUSTOM_BLOG_PAGE_URL": "http://blog.vq-labs.com",
