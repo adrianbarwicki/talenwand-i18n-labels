@@ -13,9 +13,9 @@
     "company_address": "Robert-Bosch-Strasse 49, 69190 Walldorf",
     "company_url": "https://vq-labs.com",
     "company_ceo": "Adrian Barwicki",
-    "LOGO_URL": "https://vq-labs.com/vq-labs-logo-xs-2.png",
-    "PROMO_URL": "https://vq-labs.com/images/main-photo.jpg",
-    "promo_url_sellers": "https://vq-labs.com/images/buildings.jpg",
+    "LOGO_URL": "/images/vq-logo.png",
+    "PROMO_URL": "/images/vqbg.jpg",
+    "PROMO_URL_SELLERS": "/images/vqbg.jpg",
     "CUSTOM_CONTACT_PAGE_URL": "https://vq-labs.com/contact",
     "CUSTOM_BLOG_PAGE_URL": "http://blog.vq-labs.com",
     "PRICING_HOURLY": "1",
@@ -39,6 +39,5 @@
     "LISTINGS_VIEW_LIST": "1",
     "LISTINGS_VIEW_MAP": "1",
     "LISTINGS_DEFAULT_VIEW": "2",
-    "DEFAULT_LANG": "en",
     "LANGUAGES": "de,fr,it,pl"
 }
